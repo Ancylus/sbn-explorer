@@ -37,6 +37,8 @@ sbn-explorer/
 │   ├── SBN_BN_sampler_v0.ipynb
 │   └── SBN_BN_analysis_v0.ipynb
 │
+├── docs/						 # PDF elements related to scientific publication
+│
 └── data/                        # CSV results produced by Part 1 (git-ignored)
     └── README.md                # CSV format specification
 ```
